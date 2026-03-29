@@ -25,6 +25,13 @@ Este projeto é um sistema desenvolvido em Python que permite cadastrar pessoas 
 * python-dotenv
 
 ---
+---
+
+## 🧾 Requisitos
+
+- Python 3.9.13
+
+> Este projeto utiliza Python 3.9 para garantir melhor compatibilidade com a biblioteca OpenCV e evitar problemas com versões mais recentes do Python.
 
 ## ⚙️ Como executar o projeto
 
@@ -84,4 +91,4 @@ python reconhecimento_facial.py
 
 ## 👨‍💻 Autor
 
-Anderson Belmiro
+Anderson de França Belmiro
